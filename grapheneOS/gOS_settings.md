@@ -70,4 +70,4 @@
 	- Alarms, Audiobooks, Documents, Movies, Music, Notifications, Podcasts, Recordings, Ringtones
 
 ---
-[back to main repo](android_settings_suggestions/README.md)
+[back to main repo](../README.md)
