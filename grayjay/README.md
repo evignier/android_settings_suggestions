@@ -1,4 +1,5 @@
 # Grayjay Settings Suggestions
+https://grayjay.app
 - Manage tabs
 	- Disable home, comments, tutorials, faq
  	- Sort tabs -> Subscriptions, playlists, downloads, history, settings
