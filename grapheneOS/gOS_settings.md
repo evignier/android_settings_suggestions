@@ -68,3 +68,6 @@
 	- Internet, Bluetooth, Dark theme, One-handed mode, Location, Airplane mode, Flashlight, Hotspot
 - Delete unnecesary directories
 	- Alarms, Audiobooks, Documents, Movies, Music, Notifications, Podcasts, Recordings, Ringtones
+
+---
+[back to main repo](android_settings_suggestions/README.md)
