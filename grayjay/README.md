@@ -31,4 +31,4 @@ https://grayjay.app
 	- Disable all options
 
 ---
-[back to main repo](android_settings_suggestions/README.md)
+[back to main repo](../README.md)
