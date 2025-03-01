@@ -1,1 +1,46 @@
-d
+# Brave
+https://brave.com
+- Brave shields & privacy
+	- Set block trackers & ads to aggressive
+	- Set upgrade connections to HTTPS to strict
+	- Disable store contact information for future broken site reports
+	- Enable forget me when I close this site
+	- Enable clear data on exit
+	- Disable facebook login and twitter tweets
+	- Disable allow app links to open in apps outside of Brave
+	- Set WebRTC IP handling policy to disable non-proxied UDP
+	- Disable allow sites to check if you have payment methods saved
+	- Enable close tabs on exit
+	- Disable automatically send daily usage ping to Brave
+- Disable Leo
+- Search engines
+	- Standard tab -> DuckDuckGo
+	- Private tab -> Google
+	- Disable quick search engines
+	- Disable all options
+- Homepage -> https://duckduckgo.com
+- Disable Brave password manager
+- Disable privacy report
+- Notifications
+	- Disable everything except active downloads
+- Downloads
+	- Disable automatically open when possible
+	- Enable show download progress notifications
+- Enable closing all tabs closes Brave
+- Disable open external links in Brave
+- Media
+	- Disable open youtube links in Brave
+	- Enable block youtube distracting elements and shorts
+- Tabs
+	- Disable automatically open tab groups from other devices
+- Appearence
+	- Disable Brave Rewards icon
+	- Enable night mode
+	- Disable sharing hub
+- New tab page
+	- Disable all options
+- Accessibility
+	- Enable force enable zoom
+- Languages
+	- Disable Brave translate
+- Disable payment methods, addresses and autofill in private tabs
