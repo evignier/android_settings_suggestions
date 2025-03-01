@@ -4,7 +4,7 @@ This repository contains markdown documents with settings suggestions for variou
 
 ## Contents
 
-- [GrapheneOS](grapheneOS/README.md)
-- [Futo Keyboard](futo-keyboard/README.md)
-- [Grayjay](grayjay/README.md)
-- [Brave](brave-settings/README.md)
+- [GrapheneOS Overview](grapheneOS/README.md) & [GrapheneOS Settings](grapheneOS/gOS_settings.md)
+- [Futo Keyboard Settings](futo-keyboard/README.md)
+- [Grayjay Settings](grayjay/README.md)
+- [Brave Settings](brave/README.md)
