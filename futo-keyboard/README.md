@@ -23,4 +23,4 @@ https://keyboard.futo.org
 	- Disable key borders
 
 ---
-[back to main repo](android_settings_suggestions/README.md)
+[back to main repo](../README.md)
