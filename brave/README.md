@@ -46,4 +46,4 @@ https://brave.com
 - Disable payment methods, addresses and autofill in private tabs
 
 ---
-[back to main repo](android_settings_suggestions/README.md)
+[back to main repo](../README.md)
