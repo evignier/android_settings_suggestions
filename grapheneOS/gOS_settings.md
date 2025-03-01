@@ -65,6 +65,6 @@
 	- Color and motion
 		- Remove animations
 - Tiles arrangement
-	- Internet -> Bluetooth -> Dark theme -> One-handed mode -> Location -> Airplane mode -> Flashlight -> Hotspot
+	- Internet, Bluetooth, Dark theme, One-handed mode, Location, Airplane mode, Flashlight, Hotspot
 - Delete unnecesary directories
 	- Alarms, Audiobooks, Documents, Movies, Music, Notifications, Podcasts, Recordings, Ringtones
