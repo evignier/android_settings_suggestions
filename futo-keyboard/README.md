@@ -21,3 +21,6 @@ https://keyboard.futo.org
 - Theme
 	- AMOLED Dark Purple
 	- Disable key borders
+
+---
+[back to main repo](android_settings_suggestions/README.md)
