@@ -29,3 +29,6 @@ https://grayjay.app
 	- Disable restore system brightness
 - Synchronization
 	- Disable all options
+
+---
+[back to main repo](android_settings_suggestions/README.md)
