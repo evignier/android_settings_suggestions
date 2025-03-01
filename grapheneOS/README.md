@@ -23,3 +23,6 @@ https://grapheneos.org
 - An internet connection
 ### Steps
 [Replacing GrapheneOS with the stock OS](https://grapheneos.org/install/web#replacing-grapheneos-with-the-stock-os)
+
+---
+[back to main repo](android_settings_suggestions/README.md)
